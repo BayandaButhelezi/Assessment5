@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "929983335871",
+    "project_id": "assessment5-9058a",
+    "storage_bucket": "assessment5-9058a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929983335871:android:05c3096166535db48ee50a",
+        "android_client_info": {
+          "package_name": "co.za.bayandabuthelezi.assessment5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929983335871-lghpc6li01v2kg44sh6op4kmvli4t3qk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhG3AN9DNCMjheqU7K4oeXsHy7RRWw7J4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929983335871-lghpc6li01v2kg44sh6op4kmvli4t3qk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
